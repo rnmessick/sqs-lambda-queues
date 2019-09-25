@@ -1,9 +1,10 @@
 # sqs-lambda-queues
 
 <!-- Received assistance on building readme by Nick Paro -->
-![Image of cloudwatch metric](https://github.com/rnmessick/data-structures-and-algorithms/blob/master/assets/bfsGraph.JPG)
+![Image of cloudwatch metric](https://github.com/rnmessick/sqs-lambda-queues/blob/master/src/main/resources/cloudwatchMetrics.JPG)
+![Image of all queues added to triggers](https://github.com/rnmessick/sqs-lambda-queues/blob/master/src/main/resources/sqsReceiverAllQueuesTriggers.JPG)
+![receiver lambda function](https://github.com/rnmessick/sqs-lambda-queues/blob/master/src/main/resources/sqsReceiverLamdaSuccess.JPG)
 
-C:\Users\messickr\codefellows\SQS-Lambda\src\main\resources\cloudwatchMetrics.JPG
 ### Run Instructions
 - clone or fork https://github.com/rnmessick/sqs-queues
 
